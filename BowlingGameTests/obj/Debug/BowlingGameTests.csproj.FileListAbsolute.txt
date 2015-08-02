@@ -1,0 +1,9 @@
+C:\dev\BowlingGame\BowlingGameTests\bin\Debug\BowlingGameTests.dll
+C:\dev\BowlingGame\BowlingGameTests\bin\Debug\BowlingGameTests.pdb
+C:\dev\BowlingGame\BowlingGameTests\bin\Debug\BowlingGame.dll
+C:\dev\BowlingGame\BowlingGameTests\bin\Debug\nunit.framework.dll
+C:\dev\BowlingGame\BowlingGameTests\bin\Debug\BowlingGame.pdb
+C:\dev\BowlingGame\BowlingGameTests\bin\Debug\nunit.framework.xml
+C:\dev\BowlingGame\BowlingGameTests\obj\Debug\BowlingGameTests.csprojResolveAssemblyReference.cache
+C:\dev\BowlingGame\BowlingGameTests\obj\Debug\BowlingGameTests.dll
+C:\dev\BowlingGame\BowlingGameTests\obj\Debug\BowlingGameTests.pdb
